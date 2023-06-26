@@ -783,6 +783,7 @@ input:focus{
     
     transform: scale(1.3);
 }
+
 button{
     background-image: url(https://e1.pxfuel.com/desktop-wallpaper/199/14/desktop-wallpaper-black-n-red-leather-red-leather.jpg);
     width: 100px;
@@ -1104,5 +1105,17 @@ display: none;
     }
     button{
         margin-top: 10px;
+    }
+    input:focus{
+    
+        transform: scale(0);
+    }
+    input:focus{
+    
+        transform: scale(0);
+    }
+    .social i:hover{
+        transform: scale(0);
+    
     }
 }
