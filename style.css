@@ -833,7 +833,7 @@ textarea{
 
 /* responsivness ............................................... */
 
-@media  (max-width: 390px) {
+@media  (max-width: 391px) {
     *{
         box-sizing: border-box;
         padding: 0;
